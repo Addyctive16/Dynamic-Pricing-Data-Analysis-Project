@@ -81,8 +81,5 @@ This approach quantifies how pricing decisions impact sales, revealing trends an
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements and new features.
 
-## Acknowledgments
 
-Special thanks to [@amanKharwal](https://github.com/amanKharwal) for contributing insights and guidance on this project
-and researchers in data analysis and market trends for inspiring this project.
 
